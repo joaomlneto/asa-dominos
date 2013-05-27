@@ -3,6 +3,9 @@ asa-dominos
 
 Project assignment for the Analysis and Synthesis of Algorithms course @ IST 2013
 
+Solution builds a graph based on the input and then uses Tarjan's algorithm to find the SCCs in the graph.
+The number of SCCs without incomming edges is the solution.
+
 - Problem
 -
 Dominos are lots of fun. Children like to stand the tiles on their side in long lines.
